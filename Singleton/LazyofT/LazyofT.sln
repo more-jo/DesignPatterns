@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyofT", "LazyofT\LazyofT.csproj", "{F2B5715C-AC0C-4DD9-A933-EA5CB59B0BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B5715C-AC0C-4DD9-A933-EA5CB59B0BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B5715C-AC0C-4DD9-A933-EA5CB59B0BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B5715C-AC0C-4DD9-A933-EA5CB59B0BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B5715C-AC0C-4DD9-A933-EA5CB59B0BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074C42CE-1583-43B7-9D96-8E9A5B821475}
+	EndGlobalSection
+EndGlobal
